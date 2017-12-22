@@ -1,3 +1,3 @@
-RPI-ALPINNE-NGINX
+RPI-ALPINE-PYTHON
 
-Basic alpine for raspberry pi image with Nginx
+Basic alpine for raspberry pi image with Python
